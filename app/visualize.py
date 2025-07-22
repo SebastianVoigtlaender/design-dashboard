@@ -1,0 +1,1 @@
+def plot_3d_volume(tensor):\n    print('Rendering 3D slices...')
