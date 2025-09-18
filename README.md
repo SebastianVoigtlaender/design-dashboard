@@ -1,1 +1,1 @@
-# Training Dashboard\nVisualization tool.
+# AI Design Dashboard\n\nA tailored dashboard for monitoring 3D CNN loss curves and visualizing volumetric feature maps during training.
